@@ -1,6 +1,6 @@
 package monndai9;
 import java.util.Scanner;
-
+//aaaa
 public class I1 {
     
         public static void displaySchoolAndName(String school, String name) {
