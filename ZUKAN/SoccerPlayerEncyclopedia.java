@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 // サッカー選手の図鑑クラス
-public class SoccerPlayerEncyclopedia {
+class SoccerPlayerEncyclopedia {
     private List<SoccerPlayer> players = new ArrayList<>();
 
     // サッカー選手を追加するメソッド

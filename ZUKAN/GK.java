@@ -1,7 +1,7 @@
 package ZUKAN;
 
-// GKクラス
-public class GK implements SoccerPlayer {
+// GKクラスSoccerPlayerを継承
+class GK implements SoccerPlayer {
     private String name;
     private String country;
     private int jerseyNumber;

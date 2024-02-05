@@ -1,7 +1,7 @@
 package ZUKAN;
 
 // ミッドフィールダークラス
-public class Midfielder implements SoccerPlayer {
+class Midfielder implements SoccerPlayer {
     private String name;
     private String country;
     private int jerseyNumber;

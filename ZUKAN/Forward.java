@@ -1,7 +1,7 @@
 package ZUKAN;
 
-// フォワードクラス
-public class Forward implements SoccerPlayer {
+// フォワードクラスSoccerPlayerを継承
+class Forward implements SoccerPlayer {
     private String name;
     private String country;
     private int jerseyNumber;
